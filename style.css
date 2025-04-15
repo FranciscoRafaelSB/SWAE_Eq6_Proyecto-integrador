@@ -30,6 +30,10 @@ img {
     height: auto;
 }
 
+.selected {
+    color: #d4bd56;
+}
+
 /* mis estilos */
 .header {
     background: rgb(223, 124, 124);
